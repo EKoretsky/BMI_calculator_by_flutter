@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter application.
+A new Flutter app.
 
 ## Getting Started
 
